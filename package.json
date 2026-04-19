@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "clsx": "2.1.1",
-    "date-fns": "^4.1.0",
+    "date-fns": "^2.30.0",
     "lucide-react": "^0.344.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
@@ -23,12 +23,12 @@
   },
   "devDependencies": {
     "@tailwindcss/vite": "4.1.17",
-    "@types/node": "22.19.17",
+    "@types/node": "20.11.30",
     "@types/react": "18.3.5",
     "@types/react-dom": "18.3.0",
     "@vitejs/plugin-react": "4.3.4",
     "tailwindcss": "4.1.17",
-    "typescript": "5.9.3",
+    "typescript": "5.4.5",
     "vite": "5.4.10",
     "vite-plugin-singlefile": "2.3.0"
   }
